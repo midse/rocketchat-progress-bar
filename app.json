@@ -1,0 +1,15 @@
+{
+    "id": "65238e3e-f6e0-4d9f-8dc0-0d44a34d2807",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Dimitri SEGARD",
+        "homepage": "https://github.com/midse/rocketchat-progress-bar",
+        "support": "https://github.com/midse/rocketchat-progress-bar/issues"
+    },
+    "name": "progress-bar",
+    "nameSlug": "progress-bar",
+    "classFile": "ProgressBarApp.ts",
+    "description": "Simple command to display a progress bar"
+}
